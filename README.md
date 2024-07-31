@@ -118,4 +118,5 @@ The entry point of the program, handling user input and orchestrating the calcul
 - `L` : Common logarithm (base 10)
 - `P` : PI
 - `E` : Euler's number
-Link to the project- https://github.com/Tugamer89/Basic-Calculator/tree/main/Calculator
+
+[Link to the project](https://github.com/Tugamer89/Basic-Calculator/tree/main/Calculator)
